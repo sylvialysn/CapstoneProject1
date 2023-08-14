@@ -6,7 +6,7 @@ Yellow pages berbasis online sudah menyediakan layanan penelusuran hingga pembel
 Terdapat 4 fitur yang dapat digunakan :
 1.	Mencari Nomor Telepon dan Membeli Produk
 Pada menu ini, pengguna dapat melakukan pencarian nomor telepon berdasarkan daerah, nama, dan jenis bisnis. Setelah menginput semua data yang diminta, hasil pencarian akan muncul. Hasil pencarian akan berisi kode bisnis, nama bisnis, jenis bisnis, kota, dan nomor telepon. 
- 
+<img width="468" alt="menu1" src="https://github.com/sylvialysn/CapstoneProject1/assets/142148918/cc9264d1-9046-45c4-ac05-7652cc35d90e"> 
 
 Untuk memunculkan informasi umum yaitu data lain seperti website dan alamat bisnis dapat dimasukan kode bisnis.
  
