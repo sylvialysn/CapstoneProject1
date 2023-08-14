@@ -10,6 +10,7 @@ Pada menu ini, pengguna dapat melakukan pencarian nomor telepon berdasarkan daer
 <img width="468" alt="menu1" src="https://github.com/sylvialysn/CapstoneProject1/assets/142148918/cc9264d1-9046-45c4-ac05-7652cc35d90e"> 
 
 Untuk memunculkan informasi umum yaitu data lain seperti website dan alamat bisnis dapat dimasukan kode bisnis.
+
 <img width="468" alt="menu1(2)" src="https://github.com/sylvialysn/CapstoneProject1/assets/142148918/17e64d8d-9348-45ef-8874-6272cc8a855b">
 
 Pengguna juga dapat melakukan pembelian pada bisnis tersebut jika terdapat produk yang dijual. Pembelian produk dilakukan dengan memasukkan index dan jumlah produk.
