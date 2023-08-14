@@ -3,6 +3,7 @@ Projek ini dibuat berdasarkan yellow pages berbasis online.
 Sebelumnya ‘buku kuning’ hanya untuk menelusuri data nomor telepon saja. 
 Yellow pages berbasis online sudah menyediakan layanan penelusuran hingga pembelian.
 
+
 Terdapat 4 fitur yang dapat digunakan :
 # 1.	Mencari Nomor Telepon dan Membeli Produk
 Pada menu ini, pengguna dapat melakukan pencarian nomor telepon berdasarkan daerah, nama, dan jenis bisnis. Setelah menginput semua data yang diminta, hasil pencarian akan muncul. Hasil pencarian akan berisi kode bisnis, nama bisnis, jenis bisnis, kota, dan nomor telepon.
